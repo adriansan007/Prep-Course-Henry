@@ -1,2 +1,2 @@
 # Prep-Course-Henry
-Este es un repositorio de prueba del Prep Course de Henry
+Este proyecto es para crear un repositorio es una prueba para clonarlo y verlo desdede mi escritorio local.
