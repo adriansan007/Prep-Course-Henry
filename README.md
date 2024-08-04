@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-Este proyecto es para crear un repositorio es una prueba para clonarlo y verlo desdede mi escritorio local.
+Este es un proyecto prueba de como crear un repostorio y clonarlo desde gitub a mi computadoraitora.
